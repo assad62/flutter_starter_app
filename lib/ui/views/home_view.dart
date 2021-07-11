@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:notlar_flutter/common/base_view.dart';
-import 'package:notlar_flutter/viewmodels/home_viewmodel.dart';
+import '../../common/base_view.dart';
+import '../../viewmodels/home_viewmodel.dart';
 
 class HomeView extends StatelessWidget {
 

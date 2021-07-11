@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:notlar_flutter/ui/views/home_view.dart';
 import 'common/navigation_service.dart';
 import 'locator.dart';
+import 'ui/router.dart';
+import 'ui/views/home_view.dart';
 
 void main() {
   setupLocator();
@@ -15,6 +16,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       navigatorKey: locator<NavigationService>().navigatorKey,
       title: 'Flutter Demo',
+      initialRoute: 'home',
+      onGenerateRoute: AppRouter.generateRoute,
       theme: ThemeData(
 
         primarySwatch: Colors.blue,

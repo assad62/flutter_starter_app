@@ -1,6 +1,5 @@
-
 import 'package:flutter/widgets.dart';
-import 'package:notlar_flutter/common/viewstate.dart';
+import 'viewstate.dart';
 
 class BaseModel extends ChangeNotifier {
   ViewState _state = ViewState.Idle;

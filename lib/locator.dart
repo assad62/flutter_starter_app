@@ -1,6 +1,6 @@
 import 'package:get_it/get_it.dart';
-import 'package:notlar_flutter/viewmodels/home_viewmodel.dart';
 import 'common/navigation_service.dart';
+import 'viewmodels/home_viewmodel.dart';
 
 
 

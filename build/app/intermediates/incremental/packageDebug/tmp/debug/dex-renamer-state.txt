@@ -1,0 +1,4 @@
+#Sun Jul 11 14:24:19 HKT 2021
+base.0=/Users/assaddev/Desktop/big_projects/flutter_starter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

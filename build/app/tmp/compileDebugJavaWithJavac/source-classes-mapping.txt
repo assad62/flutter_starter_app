@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mohammadassad/notlar/notlar_flutter/BuildConfig.java
+ com.mohammadassad.notlar.notlar_flutter.BuildConfig
