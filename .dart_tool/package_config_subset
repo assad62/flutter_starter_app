@@ -50,6 +50,10 @@ provider
 2.12
 file:///Users/mohammadassad/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/
 file:///Users/mohammadassad/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib/
+rxdart
+2.12
+file:///Users/mohammadassad/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.27.3/
+file:///Users/mohammadassad/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.27.3/lib/
 source_span
 2.12
 file:///Users/mohammadassad/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.0/
