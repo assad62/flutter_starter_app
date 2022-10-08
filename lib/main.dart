@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_starter_app/injection.dart';
 import 'common/navigation_service.dart';
-import 'locator.dart';
 import 'ui/router.dart';
 import 'ui/views/home_view.dart';
 
 void main() {
-  setupLocator();
+  configureDependencies();
   runApp(MyApp());
 }
 

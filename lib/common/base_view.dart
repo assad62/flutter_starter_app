@@ -1,7 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../locator.dart';
+
+import '../injection.dart';
 import 'base_model.dart';
 
 class BaseView<T extends BaseModel> extends StatefulWidget {
